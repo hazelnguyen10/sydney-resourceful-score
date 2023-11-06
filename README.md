@@ -1,5 +1,7 @@
 # Calculate and visualise a score of how resourceful it is for 350+ regions in Greater Sydney
 
+**Co-contributor:** Myra Rebecca Jia Min Wong
+
 Australia is formally defined by more than $2000$ ”Statistical Area Level 2” (SA2) distinct geographical regions, designed to represent communities of between $3000-25000$ people ”that interact together socially and economically”. This project focuses on the $350+$ SA2s within the Greater Sydney area, aiming to calculate and visualised a score for how ”well-resourced” each region is by spatially integrating several datasets of various formats.
 
 ## Tasks
